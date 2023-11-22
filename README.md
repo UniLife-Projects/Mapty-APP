@@ -1,23 +1,27 @@
-# Mapty-APP
+# [Mapty App: Track and Visualize Your Workouts](https://uche-jordy-mapty.netlify.app/)
 
-> Mapty is an app that utilises a map for the purposes of planning and recording your exercise trails throughout different locations, for the purposes of future reference.
+## Introduction
+[Mapty](https://uche-jordy-mapty.netlify.app/) is an innovative application designed for fitness enthusiasts to plan, record, and visualize their running and cycling trails. Utilizing the Leaflet map API, Mapty offers an interactive experience to track workouts across various locations for future reference.
+
+## Key Features
+- **Exercise Logging**: Choose between running or cycling and log details such as distance, duration, cadence (for running), and elevation gain (for cycling).
+- **Interactive Map Display**: Workouts are marked on the map with clickable labels, offering an engaging way to review your fitness journey.
+- **Dynamic Dashboard**: Real-time dashboard updates to display your workout data, enhancing tracking and analysis.
+- **Local Storage Integration**: Securely stores your workout data using the local storage API for later access.
+
+## User Interaction
+- **Easy Data Entry**: Simply click on the map to bring up the dynamic form and enter your workout details.
+- **Map Navigation**: Click on any workout in the dashboard to center the map on its marker. Double-click a marker for zoomed-in location details.
+
+## How to Get Started
+1. Clone the repository: `git clone https://github.com/UniLife-Projects/Mapty-APP.git`
+2. Open `index.html` in your browser to launch Mapty.
+
+## Sneak Peek
+![Mapty App Screenshot](Images/1.png)
+![Mapty App Interface](Images/2.png)
+
+## Join the Mapty Community
+Start tracking and visualizing your fitness journey today with Mapty!
 
 ---
-
-###### Features of Mapty
-
-- [x] Logs your running workouts (distance, speed, time, elevation gain)
-- [x] Logs your cycling workouts
-- [x] Shows you your workouts in a list format
-- [x] Displays your workouts on the map
-- [x] Utilises local storage API to store your workout data such that you can see it later.
-- [ ] ~~Sells your data~~
-
----
-
-###### How To Use
-
-> Download repository and open HTML file
-
-![Mapty app](Images/1.png)
-![Mapty app](Images/2.png)
