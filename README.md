@@ -1,9 +1,9 @@
-# [Mapty App: Track and Visualize Your Workouts](https://uche-jordy-mapty.netlify.app/)
+# [Mapty App: Track and Visualize Your Workouts 🌍📍](https://uche-jordy-mapty.netlify.app/)
 
 ## Introduction
 [Mapty](https://uche-jordy-mapty.netlify.app/) is an innovative application designed for fitness enthusiasts to plan, record, and visualize their running and cycling trails. Utilizing the Leaflet map API, Mapty offers an interactive experience to track workouts across various locations for future reference.
 
-## Key Features
+## Key Features 🚵
 - **Exercise Logging**: Choose between running or cycling and log details such as distance, duration, cadence (for running), and elevation gain (for cycling).
 - **Interactive Map Display**: Workouts are marked on the map with clickable labels, offering an engaging way to review your fitness journey.
 - **Dynamic Dashboard**: Real-time dashboard updates to display your workout data, enhancing tracking and analysis.
